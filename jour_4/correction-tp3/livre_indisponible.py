@@ -1,0 +1,1 @@
+class LivreIndisponible(Exception): pass
