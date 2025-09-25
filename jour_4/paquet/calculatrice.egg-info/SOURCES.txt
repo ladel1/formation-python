@@ -1,0 +1,8 @@
+pyproject.toml
+calculatrice/__init__.py
+calculatrice/calculatrice.py
+calculatrice.egg-info/PKG-INFO
+calculatrice.egg-info/SOURCES.txt
+calculatrice.egg-info/dependency_links.txt
+calculatrice.egg-info/requires.txt
+calculatrice.egg-info/top_level.txt

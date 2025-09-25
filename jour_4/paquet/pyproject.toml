@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calculatrice"
+version = "1.0.1"
+description = "Une petite bibliothèque Calculatrice"
+authors = [
+    { name="Adel Latibi", email="adel.latibi@gmail.com" }
+]
+dependencies = [
+    "requests"
+]
