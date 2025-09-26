@@ -1,4 +1,5 @@
 import sqlite3
+
 # à voir: Archtectures: Dev en couches (IHM,BO,BLL,DAL), MVC(Model, view, Controller)
 class Article : 
     def __init__(self,titre,prix,description,id=None):
